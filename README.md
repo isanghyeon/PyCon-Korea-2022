@@ -1,22 +1,22 @@
 # PyCon-Korea-2022
 
-## Title: That, that I like ‘BWASP’
-## URL: [PyCon-KR](https://2022.pycon.kr/program/talks/13)
-## URL: [YOUTUBE](https://youtu.be/9mU2vmeKO_o)
+### Title: That, that I like ‘BWASP’
+### URL1: [PyCon-KR](https://2022.pycon.kr/program/talks/13)
+### URL2: [YOUTUBE](https://youtu.be/9mU2vmeKO_o)
 
-## Description
+### Description
 - 웹애플리케이션 환경은 가장 많은 사용자 접점과 보안사고 유형을 가지고 있는 플랫폼이며 오래전부터 다양한 자동화된 도구를 이용한 취약점 분석이 이뤄지고 있다. 
 - 하지만 이러한 도구들의 한계점으로 수동 진단자들에게는 많은 도움이 되지 않는다는 현실을 파악하게 되었다. 
 - 따라서 수동 진단자들에게 Manual 적인 관점으로 사전에 유익한 정보를 제시하여 시간 소요를 줄일 수 있도록 하는 도구를 만들고자 계획하게 되었다.
 - 이번 발표에서는 웹 취약점 수동 분석 도구를 개발하면서 취약점을 예측하기 위한 연구는 어떻게 했는지 파이썬 모듈들은 어떠한 것들을 활용했는지 공유합니다.
 
-## Session Presenter
-### 김주원
+### Session Presenter
+#### 김주원
 - 안녕하세요 이번 PyCon에서 발표를 하게 된 김주원입니다.
 - 저는 해킹 팀인 데몬 팀에 소속되어 있고 차세대 보안리더 양성 프로그램 BoB 10기 취약점 분석 트랙을 수료했습니다. 그리고 현재는 엔키에서 모의해킹을 하고 있습니다.
 - 발표를 듣다가 궁금한 점이 생긴다면 슬라이드에 있는 이메일로 문의주시면 상세하게 답변드리겠습니다.
 
-### 이상현
+#### 이상현
 - 안녕하십니까, 순천향대학교 정보보호학과에 재학중인 이 상 현입니다. 
 - 한국정보기술연구원 BEST OF THE BEST Vulnerability Analysis 트랙 10기 수료생이며, 현재 순천향대학교 암호응용 연구실에서 참여 연구원으로 있습니다.
 - 관심분야로는 웹 취약점 분석, Named-Data Networking, 암호 응용입니다. 
