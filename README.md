@@ -1,7 +1,7 @@
 # PyCon-Korea-2022
 
 ## Title: That, that I like ‘BWASP’
-## (PyCon-KR)[https://2022.pycon.kr/program/talks/13]
+## [PyCon-KR](https://2022.pycon.kr/program/talks/13)
 
 ## Description
 - 웹애플리케이션 환경은 가장 많은 사용자 접점과 보안사고 유형을 가지고 있는 플랫폼이며 오래전부터 다양한 자동화된 도구를 이용한 취약점 분석이 이뤄지고 있다. 
